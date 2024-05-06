@@ -1,1 +1,0 @@
-const quest = prompt("What number am I thinking? Between 0 to 10")
